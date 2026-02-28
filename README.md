@@ -3,7 +3,7 @@
 
 ### Sata Andagi!
 
-gosto de redes de computador.
+gosto de redes de computadores.
 
 
 <br>
