@@ -1,7 +1,7 @@
 <img align="left" src="https://raw.githubusercontent.com/ninowhere/ninowhere/refs/heads/main/sataandagi.gif">
 
 
-### Olá!
+### Sata Andagi!
 
 👾Me chamo **Nícolas**.
 
