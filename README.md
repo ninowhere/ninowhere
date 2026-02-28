@@ -3,11 +3,8 @@
 
 ### Sata Andagi!
 
-👾Me chamo **Nícolas**.
+gosto de redes de computador.
 
-🦀 Um estudante de TI que ama tecnologia.
-
-🎓 Atualmente estou cursando o curso de TI com Ensino Médio Integrado no IFSP de Cubatão .
 
 <br>
 <br>
