@@ -19,9 +19,6 @@
 
 #### ✨ Sobre mim
 
-Sempre gostei de tecnologia desde pequeno, agora que estou no IFSP, entrei de cabeça nos estudos.
-
-Já programei em C#, Java, JavaScript, HTML, CSS e atualmente estou interassado na área de cibersegurança .
 
 #### 🌀 Projetos
 
